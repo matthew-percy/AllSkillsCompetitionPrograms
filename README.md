@@ -24,5 +24,4 @@
 ### Week 2
 ![](https://github.com/mrbru3/SkillsCompWeek2)
 
-### Week 1
-### [e](https://github.com/mrbru3/SkillsCompWeek1)
+### [Week 1](https://github.com/mrbru3/SkillsCompWeek1)
